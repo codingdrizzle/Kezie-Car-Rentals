@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Kezie Car Rentals
+</name>
+</assembly>
+<members>
+<member name="T:Kezie_Car_Rentals.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources._CooL_GuY____a2zRG____11_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources._CooL_GuY____a2zRG____12_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources._CooL_GuY____a2zRG____13_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources._CooL_GuY____a2zRG____6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources._CooL_GuY____a2zRG____7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources._CooL_GuY____a2zRG____8_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources._CooL_GuY____a2zRG____86_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources._CooL_GuY____a2zRG____9_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources._CooL_GuY____a2zRG____91_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources.Cars__21_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources.Cars__59_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kezie_Car_Rentals.My.Resources.Resources.Cars__66_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
